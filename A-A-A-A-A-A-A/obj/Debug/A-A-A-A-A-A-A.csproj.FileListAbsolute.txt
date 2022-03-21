@@ -1,0 +1,8 @@
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\bin\Debug\A-A-A-A-A-A-A.exe.config
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\bin\Debug\A-A-A-A-A-A-A.exe
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\bin\Debug\A-A-A-A-A-A-A.pdb
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\obj\Debug\A-A-A-A-A-A-A.csproj.AssemblyReference.cache
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\obj\Debug\A-A-A-A-A-A-A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\obj\Debug\A-A-A-A-A-A-A.csproj.CoreCompileInputs.cache
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\obj\Debug\A-A-A-A-A-A-A.exe
+C:\Users\Стас\OneDrive\Рабочий стол\Да БЛИН\A-A-A-A-A-A-A\obj\Debug\A-A-A-A-A-A-A.pdb
