@@ -1,0 +1,16 @@
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.exe
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.deps.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.runtimeconfig.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.runtimeconfig.dev.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\bin\Debug\net5.0\la_rapida_rano.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.csproj.AssemblyReference.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.AssemblyInfoInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.AssemblyInfo.cs
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.csproj.CoreCompileInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\refint\la_rapida_rano.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\la_rapida_rano.genruntimeconfig.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\la_rapida_rano\obj\Debug\net5.0\ref\la_rapida_rano.dll

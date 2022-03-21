@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "la_rapida_rano/1.0.0": {
+        "runtime": {
+          "la_rapida_rano.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "la_rapida_rano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
