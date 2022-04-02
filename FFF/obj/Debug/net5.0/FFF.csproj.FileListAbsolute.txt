@@ -1,0 +1,16 @@
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.exe
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.deps.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.runtimeconfig.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.runtimeconfig.dev.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\bin\Debug\net5.0\FFF.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.csproj.AssemblyReference.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.AssemblyInfoInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.AssemblyInfo.cs
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.csproj.CoreCompileInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\refint\FFF.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\FFF.genruntimeconfig.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FFF\obj\Debug\net5.0\ref\FFF.dll
