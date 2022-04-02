@@ -15,21 +15,28 @@ namespace FFF
             }
             catch
             {
+                Console.WriteLine("-------------------------------------");
                 Console.WriteLine("Некорректный ввод числа");
+                Console.WriteLine("-------------------------------------");
                 Environment.Exit(0);
             }
             finally
             {
                 if (num < 0)
                 {
-                    Console.WriteLine("Некорреутный ввод числа");
+                    Console.WriteLine("-------------------------------------");
+                    Console.WriteLine("Некорректный ввод числа");
+                    Console.WriteLine("-------------------------------------");
                 }
                 else
                 {
+                    Console.WriteLine("-------------------------------------");
                     Console.WriteLine("Вычисление факториала - \"0\"");
                     Console.WriteLine("Вывести число из ряда Фибоначчи - \"1\"");
+                    Console.WriteLine("-------------------------------------");
                     Console.Write("Команда: ");
                     int com = int.Parse(Console.ReadLine());
+                    Console.WriteLine("-------------------------------------");
 
                     switch (com)
                     {
@@ -72,7 +79,9 @@ namespace FFF
                             break;
 
                         default:
+                            Console.WriteLine("-------------------------------------");
                             Console.WriteLine("Некорректная команда");
+                            Console.WriteLine("-------------------------------------");
                             break;
                     }
                 }
