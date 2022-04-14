@@ -1,0 +1,16 @@
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.csproj.AssemblyReference.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.AssemblyInfoInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.AssemblyInfo.cs
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.csproj.CoreCompileInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.exe
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.deps.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.runtimeconfig.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.runtimeconfig.dev.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\bin\Debug\net5.0\Shush.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\refint\Shush.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\Shush.genruntimeconfig.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\Shush\obj\Debug\net5.0\ref\Shush.dll
