@@ -32,10 +32,10 @@ namespace Shush
             RandNum(num);
             PrintArr(num);
 
-            Console.WriteLine("-----------------------------");
-            Console.Write("         Команда: ");
+            Console.WriteLine("------------------------------");
+            Console.Write("          Команда: ");
             int comd = int.Parse(Console.ReadLine());
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("------------------------------");
 
             switch (comd)
             {
