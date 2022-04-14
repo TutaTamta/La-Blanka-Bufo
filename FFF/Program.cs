@@ -79,9 +79,9 @@ namespace FFF
                             break;
 
                         default:
-                            Console.WriteLine("-------------------------------------");
+                            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                             Console.WriteLine("Некорректная команда");
-                            Console.WriteLine("-------------------------------------");
+                            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                             break;
                     }
                 }
