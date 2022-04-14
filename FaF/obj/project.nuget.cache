@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YJMyXBdOY1oimaANKi1xK4XRsMHsUAtDwNjMJBuqeSHgGfI1LBB2sWgmj9txiLng1+d4HNSN45VZx3pbzET1VA==",
+  "dgSpecHash": "qnD8xSVUTiOh4hZgiCfgjlYoKZMYVM3SsGb2CA2kS6m53CRg6837FtQlPT/J9s79tSvXF9kMdf48Q1K/FHobAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FaF\\FaF.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Стас\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Стас\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Стас\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Стас\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

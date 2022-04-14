@@ -21,6 +21,7 @@ namespace FaF
         static void Main(string[] args)
         {
             Console.Write("Введите кол-во строк: ");
+            Console.Write("Введите кол-во строк: ");
             int rows = int.Parse(Console.ReadLine());
 
             Console.Write("Введите кол-во столбцов: ");
