@@ -25,3 +25,17 @@ C:\Users\Стас\OneDrive\Рабочий стол\FaF\obj\Debug\netcoreapp3.1\F
 C:\Users\Стас\OneDrive\Рабочий стол\FaF\obj\Debug\netcoreapp3.1\FaF.dll
 C:\Users\Стас\OneDrive\Рабочий стол\FaF\obj\Debug\netcoreapp3.1\FaF.pdb
 C:\Users\Стас\OneDrive\Рабочий стол\FaF\obj\Debug\netcoreapp3.1\FaF.genruntimeconfig.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.exe
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.deps.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.runtimeconfig.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.runtimeconfig.dev.json
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\bin\Debug\netcoreapp3.1\FaF.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.csproj.AssemblyReference.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.AssemblyInfoInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.AssemblyInfo.cs
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.csproj.CoreCompileInputs.cache
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.dll
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.pdb
+C:\Users\Стас\Documents\La-Blanka-Bufo\FaF\obj\Debug\netcoreapp3.1\FaF.genruntimeconfig.cache
