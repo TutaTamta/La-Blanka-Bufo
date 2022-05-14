@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj": {}
+    "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj": {
+    "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj",
+        "projectUniqueName": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj",
         "projectName": "FaF",
-        "projectPath": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj",
+        "projectPath": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj",
         "packagesPath": "C:\\Users\\Стас\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\obj\\",
+        "outputPath": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Стас\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.24, 3.1.24]"
+              "version": "[3.1.25, 3.1.25]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
