@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj": {}
+    "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj": {
+    "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj",
+        "projectUniqueName": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj",
         "projectName": "FaF",
-        "projectPath": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\FaF.csproj",
+        "projectPath": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\FaF.csproj",
         "packagesPath": "C:\\Users\\Стас\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Стас\\Documents\\La-Blanka-Bufo\\FaF\\obj\\",
+        "outputPath": "C:\\Users\\Стас\\OneDrive\\Рабочий стол\\FaF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Стас\\AppData\\Roaming\\NuGet\\NuGet.Config",
