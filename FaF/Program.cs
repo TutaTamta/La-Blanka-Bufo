@@ -70,7 +70,9 @@ namespace FaF
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("~ Если хотите найти обратную матрицу, первая матрица дожна быть квадратной и её ранг не должен быть больше трёх ~");
+            Console.WriteLine("----------------------------------------------------------------------------------------------------------");
+            Console.WriteLine("~ Если хотите найти обратную матрицу, первая матрица дожна быть квадратной и её ранг равен двум или трём ~");
+            Console.WriteLine("----------------------------------------------------------------------------------------------------------");
             Console.Write("Введите кол-во строк: ");
             int rows = int.Parse(Console.ReadLine());
 
@@ -86,13 +88,13 @@ namespace FaF
             Console.WriteLine("Введите числа второго массива");
             masB = Mass(rows, cols);
 
-            Console.WriteLine("-----------------------");
+            Console.WriteLine("---------------------------------------------");
             Console.WriteLine("Сложение - \"1\"");
             Console.WriteLine("Вычитание - \"2\"");
             Console.WriteLine("Обратная матрица (для первой матрицы) - \"3\"");
             Console.Write("Команда: ");
             int com = int.Parse(Console.ReadLine());
-            Console.WriteLine("-----------------------");
+            Console.WriteLine("---------------------------------------------");
             Console.WriteLine();
 
             switch (com)
