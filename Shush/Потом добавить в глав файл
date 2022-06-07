@@ -1,0 +1,142 @@
+using System;
+
+namespace Shush
+{
+    class Program
+    {
+        static int[] RandNum(int[] rand)
+        {
+            for (int i = 0; i < rand.Length; i++)
+            {
+                Random r = new Random();
+                rand[i] = r.Next(1, 100);
+            }
+            return rand;
+        }
+
+        static void PrintArr(int[] rand)
+        {
+            foreach (int i in rand)
+            {
+                Console.Write($"{i}\t");
+            }
+            Console.WriteLine();
+        }
+
+        static void arif(int[] num)
+        {
+            float sum = 0;
+
+            for (int i = 0; i < num.Length; i++)
+            {
+                sum += (float)num[i];
+            }
+
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            Console.WriteLine($"| Среднее арифметическое равно: {sum / 100} |");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        }
+
+        static void geom(int[] num)
+        {
+            double mult = 1;
+
+            for (int i = 0; i < num.Length; i++)
+            {
+                mult *= num[i];
+            }
+
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            Console.WriteLine($"| Среднее геометрическое равно: {Math.Pow(mult, 1 / 100.0)} |");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        }
+
+        static void kvad(int[] num)
+        {
+            float sum = 0;
+
+            for (int i = 0; i < num.Length; i++)
+            {
+                sum += (num[i] * num[i]);
+            }
+
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            Console.WriteLine($"| Среднее квадратическое равно: {Math.Pow(sum / 100, 1 / 2.0)} |");
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        }
+
+        static bool tree(int number)
+        {
+            while (number > 0)
+            {
+                if (number % 10 == 3)
+                {
+                    return true;
+                }
+                number /= 10;
+            }
+            return false;
+        }
+
+        static int[] newArr (int[] num)
+        {
+            bool bl;
+            int[] nw = new int[100];
+            int j = 0;
+
+            for (int i = 0; i < 100; i++)
+            {
+                //bl = tree(num[i]);
+                //if (bl == true)
+                //{
+                //    nw[j] = num[i];
+                //    j++;
+                //}
+                Console.WriteLine(num[i].ToString().Contains("3") ? num[i] : 0);
+            }
+
+            return nw;
+        }
+
+        static void Main(string[] args)
+        {
+            int[] num = new int[100];
+            
+            RandNum(num);
+            PrintArr(num);
+
+            Console.WriteLine("------------------------------");
+            Console.Write("          Команда: ");
+            int comd = int.Parse(Console.ReadLine());
+            Console.WriteLine("------------------------------");
+
+            switch (comd)
+            {
+                case 0:
+                    {
+                        arif(num);
+                        break;
+                    }
+
+                case 1:
+                    {
+                        geom(num);
+                        break;
+                    }
+
+                case 2:
+                    {
+                        kvad(num);
+                        break;
+                    }
+
+                case 3:
+                    {
+                        int[] nw = newArr(num);
+                        PrintArr(nw);
+                        break;
+                    }
+            }
+        }
+    }
+}
